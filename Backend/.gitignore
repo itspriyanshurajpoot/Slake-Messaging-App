@@ -1,0 +1,16 @@
+# .gitignore file for Node.js projects
+node_modules/
+.DS_Store
+npm-debug.log
+package-lock.json
+dist/
+# Ignore environment variables
+.env    
+# Ignore build directories
+build/
+# Ignore logs
+logs/
+# Ignore coverage reports
+coverage/
+# Ignore temporary files
+temp/
